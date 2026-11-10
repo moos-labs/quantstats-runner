@@ -1,0 +1,5 @@
+quantstats
+pandas
+numpy
+requests
+plotly<6
